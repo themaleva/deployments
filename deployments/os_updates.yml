@@ -1,0 +1,3 @@
+OS updates: sudo apt update
+OS upgrades: sudo apt upgrade -y
+Autoremove packages: sudo apt autoremove -y
